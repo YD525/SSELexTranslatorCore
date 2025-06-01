@@ -1,0 +1,22 @@
+C:\Users\52508\source\repos\Express Translator\Express Translator\bin\Debug\net8.0\SSELexTranslatorCore.deps.json
+C:\Users\52508\source\repos\Express Translator\Express Translator\bin\Debug\net8.0\SSELexTranslatorCore.dll
+C:\Users\52508\source\repos\Express Translator\Express Translator\bin\Debug\net8.0\SSELexTranslatorCore.pdb
+C:\Users\52508\source\repos\Express Translator\Express Translator\obj\Debug\net8.0\SSELexTranslatorCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52508\source\repos\Express Translator\Express Translator\obj\Debug\net8.0\SSELexTranslatorCore.AssemblyInfoInputs.cache
+C:\Users\52508\source\repos\Express Translator\Express Translator\obj\Debug\net8.0\SSELexTranslatorCore.AssemblyInfo.cs
+C:\Users\52508\source\repos\Express Translator\Express Translator\obj\Debug\net8.0\SSELexTranslatorCore.csproj.CoreCompileInputs.cache
+C:\Users\52508\source\repos\Express Translator\Express Translator\obj\Debug\net8.0\SSELexTranslatorCore.dll
+C:\Users\52508\source\repos\Express Translator\Express Translator\obj\Debug\net8.0\refint\SSELexTranslatorCore.dll
+C:\Users\52508\source\repos\Express Translator\Express Translator\obj\Debug\net8.0\SSELexTranslatorCore.pdb
+C:\Users\52508\source\repos\Express Translator\Express Translator\obj\Debug\net8.0\ref\SSELexTranslatorCore.dll
+C:\Users\52508\source\repos\SSELexTranslatorCore\SSELexTranslatorCore\bin\Debug\net8.0\SSELexTranslatorCore.deps.json
+C:\Users\52508\source\repos\SSELexTranslatorCore\SSELexTranslatorCore\bin\Debug\net8.0\SSELexTranslatorCore.dll
+C:\Users\52508\source\repos\SSELexTranslatorCore\SSELexTranslatorCore\bin\Debug\net8.0\SSELexTranslatorCore.pdb
+C:\Users\52508\source\repos\SSELexTranslatorCore\SSELexTranslatorCore\obj\Debug\net8.0\SSELexTranslatorCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52508\source\repos\SSELexTranslatorCore\SSELexTranslatorCore\obj\Debug\net8.0\SSELexTranslatorCore.AssemblyInfoInputs.cache
+C:\Users\52508\source\repos\SSELexTranslatorCore\SSELexTranslatorCore\obj\Debug\net8.0\SSELexTranslatorCore.AssemblyInfo.cs
+C:\Users\52508\source\repos\SSELexTranslatorCore\SSELexTranslatorCore\obj\Debug\net8.0\SSELexTranslatorCore.csproj.CoreCompileInputs.cache
+C:\Users\52508\source\repos\SSELexTranslatorCore\SSELexTranslatorCore\obj\Debug\net8.0\SSELexTranslatorCore.dll
+C:\Users\52508\source\repos\SSELexTranslatorCore\SSELexTranslatorCore\obj\Debug\net8.0\refint\SSELexTranslatorCore.dll
+C:\Users\52508\source\repos\SSELexTranslatorCore\SSELexTranslatorCore\obj\Debug\net8.0\SSELexTranslatorCore.pdb
+C:\Users\52508\source\repos\SSELexTranslatorCore\SSELexTranslatorCore\obj\Debug\net8.0\ref\SSELexTranslatorCore.dll

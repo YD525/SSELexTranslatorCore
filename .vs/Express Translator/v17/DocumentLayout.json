@@ -1,0 +1,359 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\52508\\source\\repos\\Express Translator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFA3312-CB9C-4A3A-9F96-384A141A4625}|Express Translator\\Express Translator.csproj|c:\\users\\52508\\source\\repos\\express translator\\express translator\\translatemanagement\\translator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFA3312-CB9C-4A3A-9F96-384A141A4625}|Express Translator\\Express Translator.csproj|solutionrelative:express translator\\translatemanagement\\translator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFA3312-CB9C-4A3A-9F96-384A141A4625}|Express Translator\\Express Translator.csproj|c:\\users\\52508\\source\\repos\\express translator\\express translator\\platformmanagement\\settingsconfiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFA3312-CB9C-4A3A-9F96-384A141A4625}|Express Translator\\Express Translator.csproj|solutionrelative:express translator\\platformmanagement\\settingsconfiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFA3312-CB9C-4A3A-9F96-384A141A4625}|Express Translator\\Express Translator.csproj|c:\\users\\52508\\source\\repos\\express translator\\express translator\\requestmanagement\\httphelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFA3312-CB9C-4A3A-9F96-384A141A4625}|Express Translator\\Express Translator.csproj|solutionrelative:express translator\\requestmanagement\\httphelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFA3312-CB9C-4A3A-9F96-384A141A4625}|Express Translator\\Express Translator.csproj|c:\\users\\52508\\source\\repos\\express translator\\express translator\\requestmanagement\\proxycenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFA3312-CB9C-4A3A-9F96-384A141A4625}|Express Translator\\Express Translator.csproj|solutionrelative:express translator\\requestmanagement\\proxycenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFA3312-CB9C-4A3A-9F96-384A141A4625}|Express Translator\\Express Translator.csproj|c:\\users\\52508\\source\\repos\\express translator\\express translator\\translatemanagement\\aitranslationmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFA3312-CB9C-4A3A-9F96-384A141A4625}|Express Translator\\Express Translator.csproj|solutionrelative:express translator\\translatemanagement\\aitranslationmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFA3312-CB9C-4A3A-9F96-384A141A4625}|Express Translator\\Express Translator.csproj|c:\\users\\52508\\source\\repos\\express translator\\express translator\\translatemanagement\\jsongeter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFA3312-CB9C-4A3A-9F96-384A141A4625}|Express Translator\\Express Translator.csproj|solutionrelative:express translator\\translatemanagement\\jsongeter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFA3312-CB9C-4A3A-9F96-384A141A4625}|Express Translator\\Express Translator.csproj|c:\\users\\52508\\source\\repos\\express translator\\express translator\\translatemanagement\\languagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFA3312-CB9C-4A3A-9F96-384A141A4625}|Express Translator\\Express Translator.csproj|solutionrelative:express translator\\translatemanagement\\languagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFA3312-CB9C-4A3A-9F96-384A141A4625}|Express Translator\\Express Translator.csproj|c:\\users\\52508\\source\\repos\\express translator\\express translator\\translatemanagement\\speechhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFA3312-CB9C-4A3A-9F96-384A141A4625}|Express Translator\\Express Translator.csproj|solutionrelative:express translator\\translatemanagement\\speechhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFA3312-CB9C-4A3A-9F96-384A141A4625}|Express Translator\\Express Translator.csproj|c:\\users\\52508\\source\\repos\\express translator\\express translator\\translatemanagement\\transcore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFA3312-CB9C-4A3A-9F96-384A141A4625}|Express Translator\\Express Translator.csproj|solutionrelative:express translator\\translatemanagement\\transcore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFA3312-CB9C-4A3A-9F96-384A141A4625}|Express Translator\\Express Translator.csproj|c:\\users\\52508\\source\\repos\\express translator\\express translator\\translatemanagement\\translationpreprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFA3312-CB9C-4A3A-9F96-384A141A4625}|Express Translator\\Express Translator.csproj|solutionrelative:express translator\\translatemanagement\\translationpreprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFA3312-CB9C-4A3A-9F96-384A141A4625}|Express Translator\\Express Translator.csproj|c:\\users\\52508\\source\\repos\\express translator\\express translator\\translatemanagement\\translationpreprocessorextend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFA3312-CB9C-4A3A-9F96-384A141A4625}|Express Translator\\Express Translator.csproj|solutionrelative:express translator\\translatemanagement\\translationpreprocessorextend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFA3312-CB9C-4A3A-9F96-384A141A4625}|Express Translator\\Express Translator.csproj|c:\\users\\52508\\source\\repos\\express translator\\express translator\\platformmanagement\\googletransapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFA3312-CB9C-4A3A-9F96-384A141A4625}|Express Translator\\Express Translator.csproj|solutionrelative:express translator\\platformmanagement\\googletransapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFA3312-CB9C-4A3A-9F96-384A141A4625}|Express Translator\\Express Translator.csproj|c:\\users\\52508\\source\\repos\\express translator\\express translator\\platformmanagement\\geminiapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFA3312-CB9C-4A3A-9F96-384A141A4625}|Express Translator\\Express Translator.csproj|solutionrelative:express translator\\platformmanagement\\geminiapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFA3312-CB9C-4A3A-9F96-384A141A4625}|Express Translator\\Express Translator.csproj|c:\\users\\52508\\source\\repos\\express translator\\express translator\\platformmanagement\\deepseekapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFA3312-CB9C-4A3A-9F96-384A141A4625}|Express Translator\\Express Translator.csproj|solutionrelative:express translator\\platformmanagement\\deepseekapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFA3312-CB9C-4A3A-9F96-384A141A4625}|Express Translator\\Express Translator.csproj|c:\\users\\52508\\source\\repos\\express translator\\express translator\\platformmanagement\\deeplapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFA3312-CB9C-4A3A-9F96-384A141A4625}|Express Translator\\Express Translator.csproj|solutionrelative:express translator\\platformmanagement\\deeplapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFA3312-CB9C-4A3A-9F96-384A141A4625}|Express Translator\\Express Translator.csproj|c:\\users\\52508\\source\\repos\\express translator\\express translator\\platformmanagement\\chatgptapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFA3312-CB9C-4A3A-9F96-384A141A4625}|Express Translator\\Express Translator.csproj|solutionrelative:express translator\\platformmanagement\\chatgptapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFA3312-CB9C-4A3A-9F96-384A141A4625}|Express Translator\\Express Translator.csproj|c:\\users\\52508\\source\\repos\\express translator\\express translator\\platformmanagement\\baiduapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFA3312-CB9C-4A3A-9F96-384A141A4625}|Express Translator\\Express Translator.csproj|solutionrelative:express translator\\platformmanagement\\baiduapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFA3312-CB9C-4A3A-9F96-384A141A4625}|Express Translator\\Express Translator.csproj|c:\\users\\52508\\source\\repos\\express translator\\express translator\\delegatemanagement\\delegatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFA3312-CB9C-4A3A-9F96-384A141A4625}|Express Translator\\Express Translator.csproj|solutionrelative:express translator\\delegatemanagement\\delegatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFA3312-CB9C-4A3A-9F96-384A141A4625}|Express Translator\\Express Translator.csproj|c:\\users\\52508\\source\\repos\\express translator\\express translator\\convertmanagement\\converthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFA3312-CB9C-4A3A-9F96-384A141A4625}|Express Translator\\Express Translator.csproj|solutionrelative:express translator\\convertmanagement\\converthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFA3312-CB9C-4A3A-9F96-384A141A4625}|Express Translator\\SSELexTranslatorCore.csproj|c:\\users\\52508\\source\\repos\\express translator\\express translator\\sselextranslatorcore.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8EFA3312-CB9C-4A3A-9F96-384A141A4625}|Express Translator\\SSELexTranslatorCore.csproj|solutionrelative:express translator\\sselextranslatorcore.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TranslationPreprocessorExtend.cs",
+              "DocumentMoniker": "C:\\Users\\52508\\source\\repos\\Express Translator\\Express Translator\\TranslateManagement\\TranslationPreprocessorExtend.cs",
+              "RelativeDocumentMoniker": "Express Translator\\TranslateManagement\\TranslationPreprocessorExtend.cs",
+              "ToolTip": "C:\\Users\\52508\\source\\repos\\Express Translator\\Express Translator\\TranslateManagement\\TranslationPreprocessorExtend.cs",
+              "RelativeToolTip": "Express Translator\\TranslateManagement\\TranslationPreprocessorExtend.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:36:29.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TranslationPreprocessor.cs",
+              "DocumentMoniker": "C:\\Users\\52508\\source\\repos\\Express Translator\\Express Translator\\TranslateManagement\\TranslationPreprocessor.cs",
+              "RelativeDocumentMoniker": "Express Translator\\TranslateManagement\\TranslationPreprocessor.cs",
+              "ToolTip": "C:\\Users\\52508\\source\\repos\\Express Translator\\Express Translator\\TranslateManagement\\TranslationPreprocessor.cs",
+              "RelativeToolTip": "Express Translator\\TranslateManagement\\TranslationPreprocessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:36:26.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TransCore.cs",
+              "DocumentMoniker": "C:\\Users\\52508\\source\\repos\\Express Translator\\Express Translator\\TranslateManagement\\TransCore.cs",
+              "RelativeDocumentMoniker": "Express Translator\\TranslateManagement\\TransCore.cs",
+              "ToolTip": "C:\\Users\\52508\\source\\repos\\Express Translator\\Express Translator\\TranslateManagement\\TransCore.cs",
+              "RelativeToolTip": "Express Translator\\TranslateManagement\\TransCore.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAowC0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:36:19.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SpeechHelper.cs",
+              "DocumentMoniker": "C:\\Users\\52508\\source\\repos\\Express Translator\\Express Translator\\TranslateManagement\\SpeechHelper.cs",
+              "RelativeDocumentMoniker": "Express Translator\\TranslateManagement\\SpeechHelper.cs",
+              "ToolTip": "C:\\Users\\52508\\source\\repos\\Express Translator\\Express Translator\\TranslateManagement\\SpeechHelper.cs",
+              "RelativeToolTip": "Express Translator\\TranslateManagement\\SpeechHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:36:11.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LanguageHelper.cs",
+              "DocumentMoniker": "C:\\Users\\52508\\source\\repos\\Express Translator\\Express Translator\\TranslateManagement\\LanguageHelper.cs",
+              "RelativeDocumentMoniker": "Express Translator\\TranslateManagement\\LanguageHelper.cs",
+              "ToolTip": "C:\\Users\\52508\\source\\repos\\Express Translator\\Express Translator\\TranslateManagement\\LanguageHelper.cs",
+              "RelativeToolTip": "Express Translator\\TranslateManagement\\LanguageHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:36:01.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JsonGeter.cs",
+              "DocumentMoniker": "C:\\Users\\52508\\source\\repos\\Express Translator\\Express Translator\\TranslateManagement\\JsonGeter.cs",
+              "RelativeDocumentMoniker": "Express Translator\\TranslateManagement\\JsonGeter.cs",
+              "ToolTip": "C:\\Users\\52508\\source\\repos\\Express Translator\\Express Translator\\TranslateManagement\\JsonGeter.cs",
+              "RelativeToolTip": "Express Translator\\TranslateManagement\\JsonGeter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:35:57.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AITranslationMemory.cs",
+              "DocumentMoniker": "C:\\Users\\52508\\source\\repos\\Express Translator\\Express Translator\\TranslateManagement\\AITranslationMemory.cs",
+              "RelativeDocumentMoniker": "Express Translator\\TranslateManagement\\AITranslationMemory.cs",
+              "ToolTip": "C:\\Users\\52508\\source\\repos\\Express Translator\\Express Translator\\TranslateManagement\\AITranslationMemory.cs",
+              "RelativeToolTip": "Express Translator\\TranslateManagement\\AITranslationMemory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:35:49.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DelegateHelper.cs",
+              "DocumentMoniker": "C:\\Users\\52508\\source\\repos\\Express Translator\\Express Translator\\DelegateManagement\\DelegateHelper.cs",
+              "RelativeDocumentMoniker": "Express Translator\\DelegateManagement\\DelegateHelper.cs",
+              "ToolTip": "C:\\Users\\52508\\source\\repos\\Express Translator\\Express Translator\\DelegateManagement\\DelegateHelper.cs",
+              "RelativeToolTip": "Express Translator\\DelegateManagement\\DelegateHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T08:17:22.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ConvertHelper.cs",
+              "DocumentMoniker": "C:\\Users\\52508\\source\\repos\\Express Translator\\Express Translator\\ConvertManagement\\ConvertHelper.cs",
+              "RelativeDocumentMoniker": "Express Translator\\ConvertManagement\\ConvertHelper.cs",
+              "ToolTip": "C:\\Users\\52508\\source\\repos\\Express Translator\\Express Translator\\ConvertManagement\\ConvertHelper.cs",
+              "RelativeToolTip": "Express Translator\\ConvertManagement\\ConvertHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:34:41.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Translator.cs",
+              "DocumentMoniker": "C:\\Users\\52508\\source\\repos\\Express Translator\\Express Translator\\TranslateManagement\\Translator.cs",
+              "RelativeDocumentMoniker": "Express Translator\\TranslateManagement\\Translator.cs",
+              "ToolTip": "C:\\Users\\52508\\source\\repos\\Express Translator\\Express Translator\\TranslateManagement\\Translator.cs",
+              "RelativeToolTip": "Express Translator\\TranslateManagement\\Translator.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAEwE8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T08:16:57.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProxyCenter.cs",
+              "DocumentMoniker": "C:\\Users\\52508\\source\\repos\\Express Translator\\Express Translator\\RequestManagement\\ProxyCenter.cs",
+              "RelativeDocumentMoniker": "Express Translator\\RequestManagement\\ProxyCenter.cs",
+              "ToolTip": "C:\\Users\\52508\\source\\repos\\Express Translator\\Express Translator\\RequestManagement\\ProxyCenter.cs",
+              "RelativeToolTip": "Express Translator\\RequestManagement\\ProxyCenter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:34:09.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GoogleTransApi.cs",
+              "DocumentMoniker": "C:\\Users\\52508\\source\\repos\\Express Translator\\Express Translator\\PlatformManagement\\GoogleTransApi.cs",
+              "RelativeDocumentMoniker": "Express Translator\\PlatformManagement\\GoogleTransApi.cs",
+              "ToolTip": "C:\\Users\\52508\\source\\repos\\Express Translator\\Express Translator\\PlatformManagement\\GoogleTransApi.cs",
+              "RelativeToolTip": "Express Translator\\PlatformManagement\\GoogleTransApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:34:01.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GeminiApi.cs",
+              "DocumentMoniker": "C:\\Users\\52508\\source\\repos\\Express Translator\\Express Translator\\PlatformManagement\\GeminiApi.cs",
+              "RelativeDocumentMoniker": "Express Translator\\PlatformManagement\\GeminiApi.cs",
+              "ToolTip": "C:\\Users\\52508\\source\\repos\\Express Translator\\Express Translator\\PlatformManagement\\GeminiApi.cs",
+              "RelativeToolTip": "Express Translator\\PlatformManagement\\GeminiApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:33:55.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SettingsConfiger.cs",
+              "DocumentMoniker": "C:\\Users\\52508\\source\\repos\\Express Translator\\Express Translator\\PlatformManagement\\SettingsConfiger.cs",
+              "RelativeDocumentMoniker": "Express Translator\\PlatformManagement\\SettingsConfiger.cs",
+              "ToolTip": "C:\\Users\\52508\\source\\repos\\Express Translator\\Express Translator\\PlatformManagement\\SettingsConfiger.cs",
+              "RelativeToolTip": "Express Translator\\PlatformManagement\\SettingsConfiger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T08:17:10.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeepSeekApi.cs",
+              "DocumentMoniker": "C:\\Users\\52508\\source\\repos\\Express Translator\\Express Translator\\PlatformManagement\\DeepSeekApi.cs",
+              "RelativeDocumentMoniker": "Express Translator\\PlatformManagement\\DeepSeekApi.cs",
+              "ToolTip": "C:\\Users\\52508\\source\\repos\\Express Translator\\Express Translator\\PlatformManagement\\DeepSeekApi.cs",
+              "RelativeToolTip": "Express Translator\\PlatformManagement\\DeepSeekApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:33:50.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DeepLApi.cs",
+              "DocumentMoniker": "C:\\Users\\52508\\source\\repos\\Express Translator\\Express Translator\\PlatformManagement\\DeepLApi.cs",
+              "RelativeDocumentMoniker": "Express Translator\\PlatformManagement\\DeepLApi.cs",
+              "ToolTip": "C:\\Users\\52508\\source\\repos\\Express Translator\\Express Translator\\PlatformManagement\\DeepLApi.cs",
+              "RelativeToolTip": "Express Translator\\PlatformManagement\\DeepLApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:33:46.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ChatGptApi.cs",
+              "DocumentMoniker": "C:\\Users\\52508\\source\\repos\\Express Translator\\Express Translator\\PlatformManagement\\ChatGptApi.cs",
+              "RelativeDocumentMoniker": "Express Translator\\PlatformManagement\\ChatGptApi.cs",
+              "ToolTip": "C:\\Users\\52508\\source\\repos\\Express Translator\\Express Translator\\PlatformManagement\\ChatGptApi.cs",
+              "RelativeToolTip": "Express Translator\\PlatformManagement\\ChatGptApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:33:42.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Express Translator",
+              "DocumentMoniker": "C:\\Users\\52508\\source\\repos\\Express Translator\\Express Translator\\SSELexTranslatorCore.csproj",
+              "RelativeDocumentMoniker": "Express Translator\\SSELexTranslatorCore.csproj",
+              "ToolTip": "C:\\Users\\52508\\source\\repos\\Express Translator\\Express Translator\\SSELexTranslatorCore.csproj",
+              "RelativeToolTip": "Express Translator\\SSELexTranslatorCore.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-01T07:33:22.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BaiDuApi.cs",
+              "DocumentMoniker": "C:\\Users\\52508\\source\\repos\\Express Translator\\Express Translator\\PlatformManagement\\BaiDuApi.cs",
+              "RelativeDocumentMoniker": "Express Translator\\PlatformManagement\\BaiDuApi.cs",
+              "ToolTip": "C:\\Users\\52508\\source\\repos\\Express Translator\\Express Translator\\PlatformManagement\\BaiDuApi.cs",
+              "RelativeToolTip": "Express Translator\\PlatformManagement\\BaiDuApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:33:12.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HttpHelper.cs",
+              "DocumentMoniker": "C:\\Users\\52508\\source\\repos\\Express Translator\\Express Translator\\RequestManagement\\HttpHelper.cs",
+              "RelativeDocumentMoniker": "Express Translator\\RequestManagement\\HttpHelper.cs",
+              "ToolTip": "C:\\Users\\52508\\source\\repos\\Express Translator\\Express Translator\\RequestManagement\\HttpHelper.cs",
+              "RelativeToolTip": "Express Translator\\RequestManagement\\HttpHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:33:08.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
